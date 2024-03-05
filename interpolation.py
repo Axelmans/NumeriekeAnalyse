@@ -69,6 +69,18 @@ class Interpolation:
             coefficients.append(d[index])
         return coefficients
 
+    def newton(self, x: float):
+        # Calculation method already mentioned in function above
+        coefficients = self.newton_coefficients()
+        res = 0
+        t = list(self.data.keys())
+        for i in range(len(coefficients)):
+            term = coefficients[i]
+            for j in range(i):
+                term *= (x - t[j])
+            res += term
+        return res
+
 
 
 
