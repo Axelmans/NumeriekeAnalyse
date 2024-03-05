@@ -6,6 +6,6 @@ Momenteel is er code aanwezig voor volgende onderdelen:
 
 1. Floating Point representatie.
 
-2. Algoritmen voor bepalen van nulpunten/dekpunten: Bisectiemethode, Methode van Newton.
+2. Algoritmen voor bepalen van nulpunten/dekpunten: Bisectie-methode, Methode van Newton.
 
 3. Interpolatieformules: Lagrange, Neville, Newton.
