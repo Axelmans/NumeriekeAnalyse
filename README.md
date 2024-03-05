@@ -8,4 +8,4 @@ Momenteel is er code aanwezig voor volgende onderdelen:
 
 2. Algoritmen voor bepalen van nulpunten/dekpunten: Bisectiemethode, Methode van Newton.
 
-3. Interpolatieformules: Lagrange (volledig), Neville (volledig), Newton (tot nu toe enkel bepaling van de coëfficiënten).
+3. Interpolatieformules: Lagrange, Neville, Newton.
